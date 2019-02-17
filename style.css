@@ -1,0 +1,69 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+#kast {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: none;
+    position: relative;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+#kast:hover{
+    opacity: 1;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.textbox{
+    background-color: ;
+    height: 50%;
+}
+
+.kastbox{
+    height: 320px;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: crosshair;
+}
+
+.nupp{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid #000;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.15em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#000;
+    text-align:center;
+    transition: all 0.2s;
+    background-color:#fff;
+}
+.nupp:hover{
+    color:#fff;
+    background-color:#f66;
+}
+
+#tulemus{
+    font-weight: bold;
+}
+
+
+
+
+
+
