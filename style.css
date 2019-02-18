@@ -62,7 +62,29 @@ img{
     font-weight: bold;
 }
 
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ffe6e6;
+    color: #ccccb3;
+    text-align: center;
+}
 
+a {
+    text-decoration: none;
+    color: #ccccb3;
+}
+a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer:hover{
+    background-color: #f66;
+    color: #fff;
+}
 
 
 
